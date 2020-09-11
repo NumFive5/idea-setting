@@ -1,0 +1,7 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="EditorToggleCase" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+</keymap>
