@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="材料商货源商品" />
+      <item value="装企总部商品" />
+      <item value="装企总部闪屏" />
+      <item value="自建" />
       <item value="计算价格" />
       <item value="同步" />
       <item value="全局系数" />
@@ -47,10 +51,6 @@
       <item value="费用条目" />
       <item value="流程" />
       <item value="材料上楼费" />
-      <item value="材料运费" />
-      <item value="设计师，采购申请费用" />
-      <item value="工程费用" />
-      <item value="不取整" />
     </histories>
     <option name="languageScores">
       <map>
