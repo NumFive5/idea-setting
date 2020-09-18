@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标记变动" />
       <item value="接受变动" />
       <item value="变动后价格" />
       <item value="变动前商品价格" />
@@ -50,7 +51,6 @@
       <item value="软装费用" />
       <item value="硬装费用" />
       <item value="省市区" />
-      <item value="房屋面积" />
     </histories>
     <option name="languageScores">
       <map>
