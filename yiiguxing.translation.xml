@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接受变动" />
+      <item value="变动后价格" />
+      <item value="变动前商品价格" />
       <item value="价格变动弹窗" />
       <item value="价格同步" />
       <item value="拆开" />
@@ -48,9 +51,6 @@
       <item value="硬装费用" />
       <item value="省市区" />
       <item value="房屋面积" />
-      <item value="住宅类型" />
-      <item value="户型" />
-      <item value="合并商品" />
     </histories>
     <option name="languageScores">
       <map>
