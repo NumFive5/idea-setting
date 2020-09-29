@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="颜色规格" />
       <item value="自动同步" />
       <item value="商品系数" />
       <item value="标记变动" />
@@ -50,7 +51,6 @@
       <item value="image" />
       <item value="封面图" />
       <item value="封面" />
-      <item value="软装费用" />
     </histories>
     <option name="languageScores">
       <map>
