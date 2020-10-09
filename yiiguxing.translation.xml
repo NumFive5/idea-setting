@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="额外材料申请" />
+      <item value="申请人" />
       <item value="额外" />
       <item value="颜色规格" />
       <item value="自动同步" />
@@ -50,7 +51,6 @@
       <item value="案例" />
       <item value="设计师id" />
       <item value="视频" />
-      <item value="image" />
     </histories>
     <option name="languageScores">
       <map>
