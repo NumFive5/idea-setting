@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Engineer" />
+      <item value="Enginer" />
+      <item value="EngineerId" />
+      <item value="EnginerId" />
+      <item value="enginer" />
       <item value="判断是否有感叹号" />
       <item value="同步" />
       <item value="提醒" />
@@ -46,15 +51,10 @@
       <item value="被派单数" />
       <item value="实际销售金额" />
       <item value="折后总价" />
-      <item value="原总价" />
-      <item value="折后销售价" />
-      <item value="原销售价" />
-      <item value="全局参数" />
-      <item value="预估价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
         <entry key="MALAY" value="1" />
         <entry key="XHOSA" value="1" />
