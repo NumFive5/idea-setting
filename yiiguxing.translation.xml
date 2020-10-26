@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查看清单" />
+      <item value="查看禽蛋" />
       <item value="是否额外" />
       <item value="Engineer" />
       <item value="Enginer" />
@@ -49,8 +51,6 @@
       <item value="高精度" />
       <item value="丢单" />
       <item value="被派单" />
-      <item value="被派单数" />
-      <item value="实际销售金额" />
     </histories>
     <option name="languageScores">
       <map>
