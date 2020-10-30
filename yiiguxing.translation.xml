@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="规格" />
+      <item value="预算数量" />
       <item value="开户名" />
       <item value="税金说明" />
       <item value="加工费" />
@@ -49,8 +51,6 @@
       <item value="自建" />
       <item value="计算价格" />
       <item value="全局系数" />
-      <item value="条件" />
-      <item value="Download pre-built shared indexes Pre-built JDK shared indexes reduce the indexing time and CPU load" />
     </histories>
     <option name="languageScores">
       <map>
