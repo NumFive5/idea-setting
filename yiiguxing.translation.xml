@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预下单" />
       <item value="加工费总和" />
       <item value="usage" />
       <item value="差额" />
@@ -50,7 +51,6 @@
       <item value="全景图" />
       <item value="系数计算" />
       <item value="材料商货源商品" />
-      <item value="装企总部商品" />
     </histories>
     <option name="languageScores">
       <map>
